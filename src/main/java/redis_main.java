@@ -11,5 +11,6 @@ public class redis_main {
         mq2.start();
         mq3.start();
 
+
     }
 }
