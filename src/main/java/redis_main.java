@@ -11,6 +11,9 @@ public class redis_main {
         mq2.start();
         mq3.start();
 
+        System.out.println("新做的改动");
+
+
 
     }
 }
